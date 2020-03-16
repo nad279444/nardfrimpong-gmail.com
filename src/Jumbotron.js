@@ -11,7 +11,7 @@ import { Link } from "react-router-dom"
                     <div className="container">
                         <div className="row">
                             <div className="col-md-3">
-                                <img src={Airy} className="img-responsive " />
+                                <img src={Airy} className="img-responsive " alt="logo"/>
                             </div>
                             <div className="col-md-6"></div>
                             <div className="col-md-3">

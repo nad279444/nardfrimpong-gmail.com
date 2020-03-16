@@ -1,5 +1,6 @@
 import React from "react"
 
+
  const Footer = () => {
     return (
         <div>
@@ -11,10 +12,7 @@ import React from "react"
                         </div>
                         <div className="col-md-6"></div>
                         <div className="col-md-3 ">
-                            <a href="#" className="fa fa-facebook"></a>
-                            <a href="#" className="fa fa-twitter"></a>
-                            <a href="#" className="fa fa-linkedin"></a>
-                            <a href="#" className="fa fa-instagram"></a>
+                            
                         </div>
                     </div>
                 </div>

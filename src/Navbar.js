@@ -14,7 +14,7 @@ import { Link } from "react-router-dom"
 				        <span className="icon-bar"></span>
 				        <span className="icon-bar"></span>
 				      </button>
-				      <a className="navbar-brand" href="#"><img src={Airy} alt="logo" className="img-responsive"/></a>
+				      <a className="navbar-brand" href="/Homepage"><img src={Airy} alt="logo" className="img-responsive"/></a>
 				    </div>
 
 				      <ul className="nav navbar-nav navbar-right link">
