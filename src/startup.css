@@ -1,0 +1,27 @@
+.navbar-brand > img {
+    display: block;
+    display: block;
+    max-width: 50%;
+    height: auto;
+    margin-top: -1px;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #3e0403;
+    height: 100px;
+}
+ul.link{
+	margin-top: 15px;
+	color: blue;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #286090;
+}
+div .image{
+    max-width: 50%;
+    height: 50px;
+}
+
